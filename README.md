@@ -1,8 +1,5 @@
 # Matplotlib - The Power of Plots
 
-## Background
-
-
 Screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
 In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
@@ -16,7 +13,7 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 * Generated a plot that shows the number of total mice for each treatment regimen throughout the course of the study.
 
-    ![mice_count_per_regimen](output/mice_count_per_regimen.png)
+    ![mice_count_per_regimen](output/mice-count-per-regimen.png)
     
 * Calculated the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
 * Generated a box and whisker plot of the final tumor volume for all four treatment regimens.
@@ -38,6 +35,6 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 * MatPlotLib
 
 ### User Instructions
-* Clone the repository: git clone https://github.com/
-
+* Clone the repository: git clone https://github.com/Vincent-glitch/Cancer_Pharmaceutical_Treatment_Analysis.git
+* Open [Pharmaceutical_Analysis](Pharmaceutical_Analysis.ipynb) and run the cells top down.
 
