@@ -36,5 +36,5 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 ### User Instructions
 * Clone the repository: git clone https://github.com/Vincent-glitch/Cancer_Pharmaceutical_Treatment_Analysis.git
-* Open [Pharmaceutical_Analysis](Pharmaceutical_Analysis.ipynb) and run the cells top down.
+* Open [Pharmaceutical_Analysis](notebooks/Pharmaceutical_Analysis.ipynb) and run the cells top down.
 
