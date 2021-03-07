@@ -16,7 +16,7 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 * Generated a plot that shows the number of total mice for each treatment regimen throughout the course of the study.
 
-    ![mice_count_per_regimen](output/mice_count_per_drug.png)
+    ![mice_count_per_regimen](output/mice_count_per_regimen.png)
     
 * Calculated the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
 * Generated a box and whisker plot of the final tumor volume for all four treatment regimens.
@@ -25,7 +25,7 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 * Selects a mouse that was treated with Capomulin and generate a line plot of time point versus tumor volume for that mouse.
 
-    ![line-mouses185_tumor_vs_time](output/line-mouses185_tumor_vs_time.png)
+    ![line-mouses185_tumor_vs_time](output/line-mouse-b742.png)
 
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
