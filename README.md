@@ -1,9 +1,19 @@
-# Matplotlib - The Power of Plots
+# Cancer_Pharmaceutical_Treatment_Analysis
+- - -
+### Tech Stack
+* Python
+* Jupyter Notebook
+* MatPlotLib
 
+### User Instructions
+* Clone the repository: git clone https://github.com/Vincent-glitch/Cancer_Pharmaceutical_Treatment_Analysis.git
+* Open [Pharmaceutical_Analysis](notebooks/Pharmaceutical_Analysis.ipynb) and run the cells top down.
+- - -
+# Background
 Screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
 In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
-
+- - -
 
 * Cleaned data 
 
@@ -28,13 +38,3 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
     ![linreg-capomulin_weight_vs_volume](output/linreg-capomulin_weight_vs_volume.png)
     
-- - -
-### Tech Stack
-* Python
-* Jupyter Notebook
-* MatPlotLib
-
-### User Instructions
-* Clone the repository: git clone https://github.com/Vincent-glitch/Cancer_Pharmaceutical_Treatment_Analysis.git
-* Open [Pharmaceutical_Analysis](notebooks/Pharmaceutical_Analysis.ipynb) and run the cells top down.
-
