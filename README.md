@@ -1,10 +1,9 @@
 # Cancer_Pharmaceutical_Treatment_Analysis
-- - -
 ### Tech Stack
 * Python
 * Jupyter Notebook
 * MatPlotLib
-
+- - -
 ### User Instructions
 * Clone the repository: git clone https://github.com/Vincent-glitch/Cancer_Pharmaceutical_Treatment_Analysis.git
 * Open [Pharmaceutical_Analysis](notebooks/Pharmaceutical_Analysis.ipynb) and run the cells top down.
