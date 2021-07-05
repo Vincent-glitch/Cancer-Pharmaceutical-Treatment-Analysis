@@ -33,7 +33,7 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
     ![line-mouses185_tumor_vs_time](output/line-mouse-b742.png)
 
-* Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+* Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on scatter plot.
 
     ![linreg-capomulin_weight_vs_volume](output/linreg-capomulin_weight_vs_volume.png)
     
